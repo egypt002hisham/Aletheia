@@ -1,3 +1,6 @@
+
+---
+
 # 💡 Aletheia: The Ethical Knowledge Platform 💡
 
 ---
@@ -27,11 +30,11 @@ Aletheia is an ambitious project aimed at building a leading digital platform to
 
 As the final logo is currently under design, this temporary logo symbolizes the essence of Aletheia: **the light of knowledge that reveals truth.**
 
-```markdown
-<p align="center">
-  <img src="assets/aletheia_logo.png" alt="شعار مؤقت: لمبة متوهجة ترمز للمعرفة والحقيقة">
-  <br>
-  <h1 align="center">Aletheia</h1>
-  <h3 align="center">منصة المعرفة الأخلاقية</h3>
-</p>
-```
+## Explore More
+
+To deepen your understanding of the **Aletheia** project and our future vision:
+
+- **Vision and Detailed Policies:** _Coming soon..._
+- **User Interface Designs (UI Mockups):** Check out the initial platform design concepts in the [design/ui_mockups](design/ui_mockups) folder.
+- **Logo and Visual Assets:** Explore the project's visual identity elements in the [assets](assets/) folder.
+- **Proposed Technology Ideas:** _Coming soon..._
